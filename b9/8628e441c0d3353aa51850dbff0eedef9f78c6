@@ -1,0 +1,25 @@
+sdks/paas-service/paas_service/urls.py
+  9e197011028fdb2f 31,36,40-41,44-46,51,56,61,66,71,76,81,86
+sdks/paas-service/paas_service/views.py
+  9e197011028fdb2f 8,10,15,22,36,38,40-41,44,54,59-60,63,67-68,71,77,85,92,98-99,102,109,117,123-124,127,131,133,135-137,139,141,148,150,153,158,161,166,169,183,190,194,208,212,223,226,229,232,237,250,257,259-260,265,275,280,284,297,306-307,310,318,321,328,336-337,343,348,351,355
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "b98628e441c0d3353aa51850dbff0eedef9f78c6",
+  "prompts": {
+    "9e197011028fdb2f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d3fb1-39a3-7580-b448-9fdc191ad521",
+        "model": "unknown"
+      },
+      "human_author": "xiaoj655 <xiaoj655@gmail.com>",
+      "messages": [],
+      "total_additions": 123,
+      "total_deletions": 3,
+      "accepted_lines": 87,
+      "overriden_lines": 0
+    }
+  }
+}
