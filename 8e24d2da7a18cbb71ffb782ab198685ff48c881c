@@ -1,0 +1,46 @@
+sdks/paas-service/CHANGES.md
+  1b1888de26fdc5da 2-3,5
+  e6d397fe7fa26ebe 4
+sdks/paas-service/paas_service/__init__.py
+  1b1888de26fdc5da 19
+sdks/paas-service/paas_service/views.py
+  c31515cf93b30e2e 21,38-40,177-180,182-283,345-351
+sdks/paas-service/paas_service/constants.py
+  e6d397fe7fa26ebe 53-56
+  82ccc8513bf7a17f 40,57
+  1b1888de26fdc5da 21,31,33,35,38-39,42-43,51-52
+sdks/paas-service/paas_service/base_vendor.py
+  1b1888de26fdc5da 29
+sdks/paas-service/pyproject.toml
+  1b1888de26fdc5da 11
+sdks/paas-service/tests/test_apis.py
+  c31515cf93b30e2e 20,25-26,306-324,326-369,371-440,442-457
+sdks/paas-service/paas_service/migrations/0010_operationlock_instancerecord.py
+  1b1888de26fdc5da 1-40
+sdks/paas-service/paas_service/models.py
+  c31515cf93b30e2e 21,24-26,37,188-240
+sdks/paas-service/paas_service/urls.py
+  c1bbb670d9ca7304 44-45
+  4123ea38572738b5 82-85
+  1b1888de26fdc5da 86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "8e24d2da7a18cbb71ffb782ab198685ff48c881c",
+  "prompts": {
+    "c31515cf93b30e2e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d47b6-0e78-7b62-a074-725f1f56d38b",
+        "model": "unknown"
+      },
+      "human_author": "xiaoj655",
+      "messages": [],
+      "total_additions": 988,
+      "total_deletions": 2,
+      "accepted_lines": 954,
+      "overriden_lines": 2
+    }
+  }
+}
